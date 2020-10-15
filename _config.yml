@@ -19,11 +19,11 @@ sidebar-avatar: /img/opclogo.png     # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     
-github_username:    
+weibo_username: opcconsulting
+zhihu_username: opcconsulting    
+github_username: opcconsulting    
 #facebook_username:  
-jianshu_username:   
+jianshu_username: opcconsulting  
 #twitter_username:   qiubaiying
 
 
@@ -65,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: opcconsulting.github.io    #仓库名称
+  repo: opcconsulting.github.io.git    #仓库名称
   owner: opcconsulting    #github用户名
   admin: opcconsulting
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
